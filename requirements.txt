@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+torch
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+nltk
+pandas
+requests
+rouge-score
+scikit-learn
+tqdm
